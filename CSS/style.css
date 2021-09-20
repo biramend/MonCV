@@ -1,0 +1,88 @@
+body{
+    /* background-color: #F0F8FF; */
+    background-color: #F5F5DC;
+}
+ul{
+    list-style-type: none;
+    
+}
+.nom{
+    color: blue;
+}
+a{
+    text-decoration: none;
+}
+h1:hover{
+    color: black;
+}
+
+.comp{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.d1{
+    display: inline-block;
+}
+.ul1{
+    float: right;
+    font-size: 26px;
+    margin-top: 0px;
+   
+}
+.pfor{
+    font-size: 26px;
+}
+strong ,span{
+    font-size: 26px;
+}
+/*cela permet de centrer la division au milieu de la page */
+div{
+    margin: 0px auto; 
+}
+.container{
+    width:fit-content;
+}
+/*cela permet de centrer la division au milieu de la page */
+img{
+    width : 150px; height : 150px;
+    border: solid blue;
+    -moz-border-radius : 75px;
+    -webkit-border-radius : 75px;
+    border-radius : 75px;
+}
+.profile{
+    text-align: center;
+    color: blue;
+}
+hr{
+    border: 1px solid blue;
+}
+h2{
+    text-align: center;
+}
+.p1 , .p2 {
+    background-color: blue;
+    width: 100%;
+    color: white;
+    text-align: center;
+}
+.p3{
+    background-color: blue;
+    width: 95%;
+    color: white;
+    text-align: center;
+}
+.p4{
+    background-color: blue;
+    width: 70%;
+    color: white;
+    text-align: center;
+}
+.p5{
+    background-color: blue;
+    width: 60%;
+    color: white;
+    text-align: center;
+}
+.section{
+    padding-bottom: 15px;
+}
